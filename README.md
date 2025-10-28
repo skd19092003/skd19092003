@@ -13,7 +13,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=skd19092003.skd19092003&left_text=SANDEEP%20KUMAR%20DAS"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=skd19092003.skd19092003&left_text=SANDEEP"  />
 </div>
 <h1 align="center">hey there 👋 This is SKD...</h1>
 
@@ -26,7 +26,7 @@
 
 ##
 <h3 align="left">👩‍💻  About Me</h3>
-<p align="left">I'm Skd from Delhi, India<br><br>- 🔭 I’m a Software developer<br>- 📚 I'm currently work on MERN Stack , Unity-VR development , Data Analysis and Data structures and algorithms in C++.<br>- ⚡ In my free time I loved to read about science journals, discoveries, astronomy, astrophysics, movies, series, a lot more things.</p>
+<p align="left">I'm Sandeep from Delhi, India<br><br>- 🔭 I’m a Software developer<br>- 📚 I'm currently work on MERN Stack , Unity-VR development , Data Analysis and Data structures and algorithms in C++.<br>- ⚡ In my free time I loved to read about science journals, discoveries, astronomy, astrophysics, movies, series, a lot more things.</p>
 
 ###
 
@@ -82,6 +82,7 @@
 
 ###
 <img src="https://raw.githubusercontent.com/skd19092003/skd19092003/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
