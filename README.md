@@ -16,30 +16,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=skd19092003.skd19092003&left_text=SANDEEP"  />
 </div>
 <h1 align="center">hey there 👋 This is SKD...</h1>
-
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skd19092003/skd19092003/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skd19092003/skd19092003/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/skd19092003/skd19092003/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/skd19092003/skd19092003/output/snake.svg" alt="Snake animation" />
-
-###
-
-##
 <h3 align="left">👩‍💻  About Me</h3>
 <p align="left">I'm Sandeep from Delhi, India<br><br>- 🔭 I’m a Software developer<br>- 📚 I'm currently work on MERN Stack , Unity-VR development , Data Analysis and Data structures and algorithms in C++.<br>- ⚡ In my free time I loved to read about science journals, discoveries, astronomy, astrophysics, movies, series, a lot more things.</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -85,18 +64,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
-
-###
-<img src="https://raw.githubusercontent.com/skd19092003/skd19092003/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">🔥   My Stats :</h3>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skd19092003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
