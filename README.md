@@ -17,12 +17,18 @@
 </div>
 <h1 align="center">hey there 👋 This is SKD...</h1>
 
-##
+###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skd19092003/skd19092003/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skd19092003/skd19092003/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/skd19092003/skd19092003/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/skd19092003/skd19092003/output/snake.svg" alt="Snake animation" />
+
+###
 
 ##
 <h3 align="left">👩‍💻  About Me</h3>
